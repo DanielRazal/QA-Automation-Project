@@ -1,7 +1,7 @@
 # QA-Automation-Project
 
 ## Overview
-My project, **QA-Automation-Project**, is a final project completed during my college studies. We developed a QA automation system using an HTML page that executes five functions in the MAIN file. By focusing on best practices and utilizing effective tools, we achieved a score of 100, highlighting the quality of our work.
+This project is a practice environment for automation using Selenium in Python, **QA-Automation-Project**, is a final project completed during my college studies. We developed a QA automation system using an HTML page that executes five functions in the MAIN file. By focusing on best practices and utilizing effective tools, we achieved a score of 100, highlighting the quality of our work.
 
 ## Installation
 
